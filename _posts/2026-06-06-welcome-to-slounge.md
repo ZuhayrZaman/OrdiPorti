@@ -11,7 +11,7 @@ Welcome to the **Slounge**! This is our very first test post to ensure everythin
 ## Exploring Lahti
 Lahti is a fantastic city for students. Whether you are interested in the harbor area or the beautiful nature trails, there is always something to discover.
 
-![Lahti Harbor](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lahti_harbor_2015.jpg/800px-Lahti_harbor_2015.jpg)
+![Lahti Harbor](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lahti_view_2.jpg/1920px-Lahti_view_2.jpg)
 *A view of the beautiful Lahti harbor.*
 
 ## How to use this site
